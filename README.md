@@ -1,5 +1,6 @@
 # Project-guten-bag-of-words
 Project-guten-bag-of-words: 
+Automatic genre grouping, similar book recommendation, and visualization of narrative patterns in Project Gutenberg books using unsupervised machine learning.
 This is an unsupervised learning project involving Project Gutenberg books. 
 I built an associated dash app that’s also included.
 
